@@ -1,7 +1,2 @@
 pyTelegramBotAPI
-pyTelegramBotAPI
-openai
-google-genai
 google-generativeai
-pyTelegramBotAPI
-google-genai
